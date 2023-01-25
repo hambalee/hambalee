@@ -1,3 +1,6 @@
+[![](https://github-readme-stats.vercel.app/api?username=hambalee)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hambalee&layout=compact)](#)
+
 - 👋 Hi, I’m @hambalee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
